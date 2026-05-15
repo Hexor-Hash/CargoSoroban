@@ -1,4 +1,4 @@
-# StellarHaul
+#CargoSoroban
 
 ![Stellar](https://img.shields.io/badge/Stellar-Network-blue?logo=stellar)
 ![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contracts-purple)
