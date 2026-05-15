@@ -10,7 +10,7 @@ Smart logistics matching platform built on Stellar and Soroban that connects far
 
 ## Overview
 
-StellarHaul enables secure produce transportation, transparent logistics tracking, and trustless payments for emerging market supply chains. Farmers post cargo jobs, transporters accept and fulfill deliveries, and buyers confirm receipt — all coordinated through Soroban smart contracts with XLM escrow payments and on-chain reputation scores.
+CargoSoroban enables secure produce transportation, transparent logistics tracking, and trustless payments for emerging market supply chains. Farmers post cargo jobs, transporters accept and fulfill deliveries, and buyers confirm receipt — all coordinated through Soroban smart contracts with XLM escrow payments and on-chain reputation scores.
 
 ## Architecture
 
